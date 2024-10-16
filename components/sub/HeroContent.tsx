@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I'm a Senior Full Stack Software Engineer with 5 years of experience
+          I&aposm a Senior Full Stack Software Engineer with 5 years of experience
           in Shopify, Wordpress, Custom Website / Micro Services, and Web Apps
           Development.
         </motion.p>
